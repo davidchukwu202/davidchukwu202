@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on frontend and backend projects
 - ⚡I love reading and good communication
 - 📫 How to reach me 
-     Email: davidchukwu202gmail.com
-     Twitter: @the_davidchukwu
+ Email: davidchukwu202gmail.com
+ Twitter: @the_davidchukwu
