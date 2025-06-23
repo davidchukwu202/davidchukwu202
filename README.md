@@ -2,7 +2,7 @@
 ## I Am Chukwu Chukwuebuka David( @Davidchukwu202)
 
 
-- 🔭 I’m a backend developer 
+- 🔭 I’m a software developer 
 - 🌱 I design the backend with NodeJs, Python and Databases.
 - 👯 I’m looking to collaborate on frontend and backend projects
 - ⚡I love reading and good communication
